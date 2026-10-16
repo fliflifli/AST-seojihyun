@@ -1,5 +1,5 @@
 export default {
-  source: ["tokens/tokens.json"],
+  source: ["tokens.json"],
 
   platforms: {
     css: {
